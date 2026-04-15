@@ -18,10 +18,6 @@ data/ssdata1/9_tee_misc/
 # Output (generated renders)
 output/
 
-# Claude
-.claude/
-CLAUDE.md
-
 # OS
 .DS_Store
 Thumbs.db
