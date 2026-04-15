@@ -1,0 +1,39 @@
+{
+  "num_classes": 8,
+  "num_samples": 2,
+  "class_names": [
+    "Elbow - Weld Fitting",
+    "Elbow - Pipe End Fitting",
+    "Elbow - Socket Fitting",
+    "Tee - Weld Fitting",
+    "Tee - Pipe End Fitting",
+    "Tee - Socket Fitting",
+    "Elbow - Miscellaneous",
+    "Tee - Miscellaneous"
+  ],
+  "class_counts": {
+    "0": 2,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0
+  },
+  "class_folders": {
+    "1_elbow_wf": 0,
+    "2_elbow_pef": 1,
+    "3_elbow_sf": 2,
+    "4_tee_wf": 3,
+    "5_tee_pef": 4,
+    "6_tee_sf": 5,
+    "8_elbow_misc": 6,
+    "9_tee_misc": 7
+  },
+  "conversion_stats": {
+    "total_files": 2,
+    "successes": 2,
+    "failures": 0
+  }
+}

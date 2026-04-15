@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.py[cod]
+
+# Data (large CAD files and graphs)
+data/ssdata1/graphs/
+data/ssdata1/steps/
+data/ssdata1/1_elbow_wf/
+data/ssdata1/2_elbow_pef/
+data/ssdata1/3_elbow_sf/
+data/ssdata1/4_tee_wf/
+data/ssdata1/5_tee_pef/
+data/ssdata1/6_tee_sf/
+data/ssdata1/8_elbow_misc/
+data/ssdata1/9_tee_misc/
+
+# Output (generated renders)
+output/
+
+# Claude
+.claude/
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
